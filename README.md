@@ -4,7 +4,7 @@ Question Number ===> 21
 
 Programming Language ===> Python
 
-Program description ===> 21th Exercise
+Program Description ===> 21th Exercise
 
 Example ===> Write A Program That Adds List A To List B
 
